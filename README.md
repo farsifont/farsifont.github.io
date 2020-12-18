@@ -5,18 +5,31 @@ All Best Farsi Font
 #List of fonts
 
 Diroz
+
 Gandom
+
 Sahel
+
 Samim
+
 Tanha
+
 Vazir
+
 Shabnam
+
 IranSharp
+
 IranYekan
+
 Parastoo
+
 IranSans
+
 IranSnanDn
+
 IranSans Farsi Numbers
+
 IranYekan Farsi Number
 
 
