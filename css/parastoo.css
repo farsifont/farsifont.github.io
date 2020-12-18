@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Parastoo;
+    src: url('https://farsifont.github.io/parastoo/Parastoo.eot');
+    src: url('https://farsifont.github.io/parastoo/Parastoo.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/parastoo/Parastoo.woff') format('woff'),
+    url('https://farsifont.github.io/parastoo/Parastoo.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Parastoo;
+    src: url('https://farsifont.github.io/parastoo/Parastoo-Bold.eot');
+    src: url('https://farsifont.github.io/parastoo/Parastoo-Bold.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/parastoo/Parastoo-Bold.woff') format('woff'),
+    url('https://farsifont.github.io/parastoo/Parastoo-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+body{font-family:  "Parastoo",  sans-serif !important}
+.nav > li > a {font-family:  "Parastoo", sans-serif !important;}
+h1,h2,h3,h4,h5,h6, .heading-font{font-family: "Parastoo", sans-serif !important;}
+.alt-font{font-family: "Parastoo", sans-serif !important;}

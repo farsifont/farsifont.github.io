@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Tanha;
+    src: url('https://farsifont.github.io/tanha/Tanha.eot');
+    src: url('https://farsifont.github.io/tanha/Tanha.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/tanha/Tanha.woff') format('woff'),
+    url('https://farsifont.github.io/tanha/Tanha.ttf') format('truetype');
+    font-weight: normal;
+}
+body{font-family:  "Tanha",  sans-serif !important}
+.nav > li > a {font-family:  "Tanha", sans-serif !important;}
+h1,h2,h3,h4,h5,h6, .heading-font{font-family: "Tanha", sans-serif !important;}
+.alt-font{font-family: "Tanha", sans-serif !important;}

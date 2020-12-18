@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Gandom;
+    src: url('https://farsifont.github.io/gandom/Gandom.eot');
+    src: url('https://farsifont.github.io/gandom/Gandom.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/gandom/Gandom.woff') format('woff'),
+    url('https://farsifont.github.io/gandom/Gandom.ttf') format('truetype');
+    font-weight: normal;
+}
+body{font-family:  "Gandom",  sans-serif !important}
+.nav > li > a {font-family:  "Gandom", sans-serif !important;}
+h1,h2,h3,h4,h5,h6, .heading-font{font-family: "Gandom", sans-serif !important;}
+.alt-font{font-family: "Gandom", sans-serif !important;}

@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Shabnam;
+    src: url('https://farsifont.github.io/shabnam/Shabnam.eot');
+    src: url('https://farsifont.github.io/shabnam/Shabnam.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/shabnam/Shabnam.woff2') format('woff2'),
+    url('https://farsifont.github.io/shabnam/Shabnam.woff') format('woff'),
+    url('https://farsifont.github.io/shabnam/Shabnam.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url('https://farsifont.github.io/shabnam/Shabnam-Bold.eot');
+    src: url('https://farsifont.github.io/shabnam/Shabnam-Bold.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/shabnam/Shabnam-Bold.woff2') format('woff2'),
+    url('https://farsifont.github.io/shabnam/Shabnam-Bold.woff') format('woff'),
+    url('https://farsifont.github.io/shabnam/Shabnam-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url('https://farsifont.github.io/shabnam/Shabnam-Light.eot');
+    src: url('https://farsifont.github.io/shabnam/Shabnam-Light.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/shabnam/Shabnam-Light.woff2') format('woff2'),
+    url('https://farsifont.github.io/shabnam/Shabnam-Light.woff') format('woff'),
+    url('https://farsifont.github.io/shabnam/Shabnam-Light.ttf') format('truetype');
+    font-weight: 300;
+}
+body{font-family:  "Shabnam",  sans-serif !important}
+.nav > li > a {font-family:  "Shabnam", sans-serif !important;}
+h1,h2,h3,h4,h5,h6, .heading-font{font-family: "Shabnam", sans-serif !important;}
+.alt-font{font-family: "Shabnam", sans-serif !important;}

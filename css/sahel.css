@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Sahel;
+    src: url('https://farsifont.github.io/sahel/Sahel.eot');
+    src: url('https://farsifont.github.io/sahel/Sahel.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/sahel/Sahel.woff') format('woff'),
+    url('https://farsifont.github.io/sahel/Sahel.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Sahel;
+    src: url('https://farsifont.github.io/sahel/Sahel-Bold.eot');
+    src: url('https://farsifont.github.io/sahel/Sahel-Bold.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/sahel/Sahel-Bold.woff') format('woff'),
+    url('https://farsifont.github.io/sahel/Sahel-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Sahel;
+    src: url('https://farsifont.github.io/sahel/Sahel-Black.eot');
+    src: url('https://farsifont.github.io/sahel/Sahel-Black.eot?#iefix') format('embedded-opentype'),
+    url('https://farsifont.github.io/sahel/Sahel-Black.woff') format('woff'),
+    url('https://farsifont.github.io/sahel/Sahel-Black.ttf') format('truetype');
+    font-weight: 900;
+}
+
+body{font-family:  "Sahel",  sans-serif !important}
+.nav > li > a {font-family:  "Sahel", sans-serif !important;}
+h1,h2,h3,h4,h5,h6, .heading-font{font-family: "Sahel", sans-serif !important;}
+.alt-font{font-family: "Sahel", sans-serif !important;}
