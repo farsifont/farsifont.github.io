@@ -35,6 +35,7 @@ IranYekan Farsi Number
 
 
 #You can use the following two methods
+
 #method number one
 
 @import url("https://farsifont.github.io/css/dirooz.css");
@@ -69,13 +70,23 @@ IranYekan Farsi Number
 
 
 #method number two
+
 #Font Dirooz
+
 @font-face {
+
     font-family: Dirooz;
+    
     src: url('https://farsifont.github.io/dirooz/Dirooz.eot');
+    
     src: url('https://farsifont.github.io/dirooz/Dirooz.eot?#iefix') format('embedded-opentype'),
+    
     url('https://farsifont.github.io/dirooz/Dirooz.woff2') format('woff2'),
+    
     url('https://farsifont.github.io/dirooz/Dirooz.woff') format('woff'),
+    
     url('https://farsifont.github.io/dirooz/Dirooz.ttf') format('truetype');
+    
     font-weight: normal;
+    
 }
