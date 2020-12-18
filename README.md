@@ -72,7 +72,7 @@ IranYekan Farsi Number
 
 
 #Font Gandom
-@font-face {
+#@font-face {
     font-family: Gandom;
     src: url('https://farsifont.github.io/gandom/Gandom.eot');
     src: url('https://farsifont.github.io/gandom/Gandom.eot?#iefix') format('embedded-opentype'),
