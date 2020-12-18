@@ -32,11 +32,6 @@ IranSans Farsi Numbers
 
 IranYekan Farsi Number
 #
-#
-#
-#
-#
-#
 #You can use the following two methods
 
 #method number one
@@ -69,16 +64,9 @@ IranYekan Farsi Number
 
 @import url("https://farsifont.github.io/css/vazir.css");
 #
-#
-#
-#
-#
-#
 #method number two
-#
-#
+
 #Example Font Dirooz 
-#
 #
 @font-face {
 
