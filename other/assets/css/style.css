@@ -3409,7 +3409,7 @@ body.mweb-body .tooltip.bottom-right .tooltip-arrow {
 }
 .product_item .add-to-cart-wrap2 {
     float: left;
-    margin-left: -70px;
+    margin-left: -30px;
     position: relative;
     top: 2px
 }
@@ -17616,14 +17616,3 @@ form.woocommerce-EditAccountForm {
 .selectBox-inline.selectBox-disabled .selectBox-options A {
     background-color: transparent !important;
 }
-
-
-
-
-
-
-
-
-
-
-
