@@ -6524,7 +6524,7 @@ ul+.comment-respond {
     height: auto;
     background: 0;
     overflow: visible;
-    min-width: 215px;
+    min-width: 220px;
     transition: background-color .15s ease-out;
     -webkit-transition: background-color .15s ease-out;
     -moz-transition: background-color .15s ease-out;
@@ -17616,4 +17616,3 @@ form.woocommerce-EditAccountForm {
 .selectBox-inline.selectBox-disabled .selectBox-options A {
     background-color: transparent !important;
 }
-
