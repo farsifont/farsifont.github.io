@@ -6524,7 +6524,7 @@ ul+.comment-respond {
     height: auto;
     background: 0;
     overflow: visible;
-    min-width: 220px;
+    min-width: 225px;
     transition: background-color .15s ease-out;
     -webkit-transition: background-color .15s ease-out;
     -moz-transition: background-color .15s ease-out;
