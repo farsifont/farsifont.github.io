@@ -1,0 +1,50 @@
+@font-face {
+	font-family: Vazir;
+	font-style: normal;
+	font-weight: bold;
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-Bold-FD.eot');
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-Bold-FD.eot') format('embedded-opentype'),  /* IE6-8 */
+		 url('https://farsifont.github.io/vazir/woff2/Vazir-Bold-FD.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('https://farsifont.github.io/vazir/woff/Vazir-Bold_FD.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('https://farsifont.github.io/vazir/ttf/Vazir-Bold_FD.ttf') format('truetype');
+}
+@font-face {
+	font-family: Vazir;
+	font-style: normal;
+	font-weight: 500;
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-Medium-FD.eot');
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-Medium-FD.eot') format('embedded-opentype'),  /* IE6-8 */
+		 url('https://farsifont.github.io/vazir/woff2/Vazir-Medium-FD.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('https://farsifont.github.io/vazir/woff/Vazir-Medium-FD.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('https://farsifont.github.io/vazir/ttf/Vazir-Medium-FD.ttf') format('truetype');
+}
+@font-face {
+	font-family: Vazir;
+	font-style: normal;
+	font-weight: 300;
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-Light-FD.eot');
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-Light-FD.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('https://farsifont.github.io/vazir/woff2/Vazir-Light-FD.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('https://farsifont.github.io/vazir/woff/Vazir-Light-FD.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('https://farsifont.github.io/vazir/ttf/Vazir-Light-FD.ttf') format('truetype');
+}
+@font-face {
+	font-family: Vazir;
+	font-style: normal;
+	font-weight: 200;
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-Thin-FD.eot');
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-Thin-FD.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('https://farsifont.github.io/vazir/woff2/Vazir-Thin-FD.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('https://farsifont.github.io/vazir/woff/Vazir-Thin-FD.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('https://farsifont.github.io/vazir/ttf/Vazir-Thin-FD.ttf') format('truetype');
+}
+@font-face {
+	font-family: Vazir;
+	font-style: normal;
+	font-weight: normal;
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-FD.eot');
+	src: url('https://farsifont.github.io/vazir/eot/Vazir-FD.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('https://farsifont.github.io/vazir/woff2/Vazir-FD.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('https://farsifont.github.io/vazir/woff/Vazir-FD.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('https://farsifont.github.io/vazir/ttf/Vazir-FD.ttf') format('truetype');
+}
